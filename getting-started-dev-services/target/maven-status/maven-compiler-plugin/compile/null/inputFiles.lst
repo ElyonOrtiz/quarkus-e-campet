@@ -1,0 +1,12 @@
+/home/elyon/projects/getting-started-dev-services/src/main/java/myapp/controller/AuthController.java
+/home/elyon/projects/getting-started-dev-services/src/main/java/myapp/controller/LoginDTO.java
+/home/elyon/projects/getting-started-dev-services/src/main/java/myapp/controller/PersonDTO.java
+/home/elyon/projects/getting-started-dev-services/src/main/java/myapp/controller/UserDTO.java
+/home/elyon/projects/getting-started-dev-services/src/main/java/myapp/entity/Colaborator.java
+/home/elyon/projects/getting-started-dev-services/src/main/java/myapp/entity/EmployeePosition.java
+/home/elyon/projects/getting-started-dev-services/src/main/java/myapp/entity/Role.java
+/home/elyon/projects/getting-started-dev-services/src/main/java/myapp/entity/User.java
+/home/elyon/projects/getting-started-dev-services/src/main/java/myapp/security/JwtTokenGenerator.java
+/home/elyon/projects/getting-started-dev-services/src/main/java/myapp/service/EncryptDecript.java
+/home/elyon/projects/getting-started-dev-services/src/main/java/myapp/service/RoleService.java
+/home/elyon/projects/getting-started-dev-services/src/main/java/myapp/service/UserService.java

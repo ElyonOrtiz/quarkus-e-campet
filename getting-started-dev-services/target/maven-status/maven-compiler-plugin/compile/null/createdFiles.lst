@@ -1,0 +1,12 @@
+myapp/service/EncryptDecript.class
+myapp/controller/UserDTO.class
+myapp/controller/PersonDTO.class
+myapp/security/JwtTokenGenerator.class
+myapp/controller/AuthController.class
+myapp/entity/Role.class
+myapp/controller/LoginDTO.class
+myapp/service/UserService.class
+myapp/entity/User.class
+myapp/entity/Colaborator.class
+myapp/service/RoleService.class
+myapp/entity/EmployeePosition.class
